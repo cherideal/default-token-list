@@ -1,0 +1,49 @@
+{
+  "name": "Uniswap Default List",
+  "timestamp": "2020-10-23T13:04:29.531Z",
+  "version": {
+    "major": 1,
+    "minor": 5,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "uniswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "alice",
+      "address": "0x4159D5c6bf7454E1a36D78AFBBc5BF25212A8Be4",
+      "symbol": "alice",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaD6D458402F60fD3Bd25163575031ACDce07538D/logo.png"
+    },
+    {
+      "name": "bob",
+      "address": "0x1aef51F0ee45d83091562aB840e8e5E15a490de1",
+      "symbol": "bob",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaD6D458402F60fD3Bd25163575031ACDce07538D/logo.png"
+    },
+    {
+      "name": "Uniswap",
+      "address": "0xb8f1B71568f3291587eF75cc97261Df392142847",
+      "symbol": "UNI",
+      "decimals": 18,
+      "chainId": 3,
+      "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0x15317e0FB574Fd3d0173A798Cb04A0a3e306a76e",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 3,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+    }
+  ]
+}
