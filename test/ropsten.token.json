@@ -39,9 +39,9 @@
     },
     {
       "name": "ZIPS",
-      "address": "0x4d8f03663215E45d68bfF88367ae86B1c755AD11",
+      "address": "0x56755415Bb92519dceF71A5207AAa515165224F5",
       "symbol": "ZIPS",
-      "decimals": 18,
+      "decimals": 10,
       "chainId": 3,
       "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
     }
