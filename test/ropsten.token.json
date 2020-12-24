@@ -36,6 +36,14 @@
       "decimals": 18,
       "chainId": 3,
       "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+    },
+    {
+      "name": "ZIPS",
+      "address": "0xEEBb31d9BD05BDB41F25B9e1EDDD1Fa1A8070369",
+      "symbol": "ZIPS",
+      "decimals": 18,
+      "chainId": 3,
+      "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
     }
   ]
 }
