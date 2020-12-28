@@ -18,7 +18,7 @@
       "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
       "symbol": "USDT",
       "decimals": 6,
-      "chainId": 0,
+      "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
     },
     {
@@ -26,7 +26,7 @@
       "address": "0x5D8d9F5b96f4438195BE9b99eee6118Ed4304286",
       "symbol": "COVER",
       "decimals": 18,
-      "chainId": 0,
+      "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaD6D458402F60fD3Bd25163575031ACDce07538D/logo.png"
     }
   ]
