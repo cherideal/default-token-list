@@ -30,6 +30,14 @@
       "logoURI": "https://etherscan.io/token/images/cover_32.png"
     },
     {
+      "name": "DAI",
+      "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://etherscan.io/token/images/MCDDai_32.png"
+    },
+    {
       "name": "BAC",
       "address": "0x3449FC1Cd036255BA1EB19d65fF4BA2b8903A69a",
       "symbol": "BAC",
