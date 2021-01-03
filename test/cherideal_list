@@ -1,0 +1,57 @@
+{
+  "name": "USDT_COVER",
+  "timestamp": "2020-10-23T13:04:29.531Z",
+  "version": {
+    "major": 1,
+    "minor": 5,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "uniswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "USDT",
+      "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 1,
+      "logoURI": "https://etherscan.io/token/images/tether_32.png"
+    },
+    {
+      "name": "COVER",
+      "address": "0x5D8d9F5b96f4438195BE9b99eee6118Ed4304286",
+      "symbol": "COVER",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://etherscan.io/token/images/cover_32.png"
+    },
+    {
+      "name": "BAC",
+      "address": "0x3449FC1Cd036255BA1EB19d65fF4BA2b8903A69a",
+      "symbol": "BAC",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://basis.cash/static/media/basis-cash-logo.89e29678.svg"
+    },
+    {
+      "name": "BAS",
+      "address": "0xa7ed29b253d8b4e3109ce07c80fc570f81b63696",
+      "symbol": "BAS",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://basis.cash/static/media/basis-share-logo.466cf09b.svg"
+    },
+    {
+      "name": "BAB",
+      "address": "0xC36824905dfF2eAAEE7EcC09fCC63abc0af5Abc5",
+      "symbol": "BAB",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://basis.cash/static/media/basis-bond-logo.80fb5592.svg"
+    }
+  ]
+}
